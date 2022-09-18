@@ -1,0 +1,5 @@
+outs:
+- md5: 90bb8a8f5ede68d9e81a67bd131d6c3a.dir
+  size: 166832
+  nfiles: 68
+  path: adult

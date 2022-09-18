@@ -1,0 +1,5 @@
+outs:
+- md5: 9c13928dd509e6fce07e46bdd2ce5e16.dir
+  size: 147073687
+  nfiles: 32
+  path: vid_pth

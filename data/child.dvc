@@ -1,0 +1,5 @@
+outs:
+- md5: 920daa5de6227cb8fa0f429d4fc65046.dir
+  size: 178324
+  nfiles: 74
+  path: child

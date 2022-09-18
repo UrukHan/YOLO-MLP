@@ -1,0 +1,5 @@
+outs:
+- md5: 4281195ad62ac1993a92c0f17353a6b5.dir
+  size: 14808437
+  nfiles: 1
+  path: weight_yolo

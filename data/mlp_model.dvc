@@ -1,0 +1,5 @@
+outs:
+- md5: 565f0f6a9f72effc2ed6ad59e5b9dd91.dir
+  size: 110748331
+  nfiles: 4
+  path: mlp_model

@@ -1,0 +1,8 @@
+[core]
+    no_scm = True
+    remote = ycloud
+    analytics = false
+
+['remote "ycloud"']
+    url = s3://dvc-recsys
+    endpointurl = https://storage.yandexcloud.net

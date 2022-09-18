@@ -1,0 +1,8 @@
+
+train: data/images/train
+val: data/images/val
+
+
+# Classes
+nc: 1  # number of classes
+names: ['face']  # class names
